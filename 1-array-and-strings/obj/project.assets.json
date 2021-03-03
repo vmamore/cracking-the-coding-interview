@@ -8,23 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\vinicius.caldeira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Labs\\cracking-the-coding-interview\\1-array-and-strings\\1-array-and-strings.csproj",
+      "projectUniqueName": "C:\\Labs\\Estudos\\cracking-the-coding-interview\\1-array-and-strings\\1-array-and-strings.csproj",
       "projectName": "1-array-and-strings",
-      "projectPath": "D:\\Labs\\cracking-the-coding-interview\\1-array-and-strings\\1-array-and-strings.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Labs\\cracking-the-coding-interview\\1-array-and-strings\\obj\\",
+      "projectPath": "C:\\Labs\\Estudos\\cracking-the-coding-interview\\1-array-and-strings\\1-array-and-strings.csproj",
+      "packagesPath": "C:\\Users\\vinicius.caldeira\\.nuget\\packages\\",
+      "outputPath": "C:\\Labs\\Estudos\\cracking-the-coding-interview\\1-array-and-strings\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vinicius.caldeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
