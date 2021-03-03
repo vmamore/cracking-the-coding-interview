@@ -1,0 +1,16 @@
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\bin\Debug\net5.0\1-array-and-strings.exe
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\bin\Debug\net5.0\1-array-and-strings.deps.json
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\bin\Debug\net5.0\1-array-and-strings.runtimeconfig.json
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\bin\Debug\net5.0\1-array-and-strings.runtimeconfig.dev.json
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\bin\Debug\net5.0\1-array-and-strings.dll
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\bin\Debug\net5.0\ref\1-array-and-strings.dll
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\bin\Debug\net5.0\1-array-and-strings.pdb
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\obj\Debug\net5.0\1-array-and-strings.csprojAssemblyReference.cache
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\obj\Debug\net5.0\1-array-and-strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\obj\Debug\net5.0\1-array-and-strings.AssemblyInfoInputs.cache
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\obj\Debug\net5.0\1-array-and-strings.AssemblyInfo.cs
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\obj\Debug\net5.0\1-array-and-strings.csproj.CoreCompileInputs.cache
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\obj\Debug\net5.0\1-array-and-strings.dll
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\obj\Debug\net5.0\ref\1-array-and-strings.dll
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\obj\Debug\net5.0\1-array-and-strings.pdb
+D:\Labs\cracking-the-coding-interview\1-array-and-strings\obj\Debug\net5.0\1-array-and-strings.genruntimeconfig.cache
