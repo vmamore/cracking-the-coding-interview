@@ -9,3 +9,5 @@
 - [x] 1.7 - [Rotate Matrix](1-array-and-strings/RotateMatrix.cs)
 - [ ] 1.8 - Zero Matrix
 - [ ] 1.9 - String Rotation
+
+## Chapter 2 - Linked Lists
