@@ -6,7 +6,13 @@ namespace _1_array_and_strings
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var array = new int[3, 3]
+            {
+                { 1, 2, 3},
+                { 1, 2, 3},
+                { 1, 2, 3}
+            };
+            Console.WriteLine(RotateMatrix.Execute(array));
         }
     }
 }
