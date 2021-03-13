@@ -11,3 +11,7 @@
 - [x] 1.9 - [String Rotation]((1-array-and-strings/StringRotation.cs))
 
 ## Chapter 2 - Linked Lists
+- [ ] 2.1 - Remove Dumps
+- [ ] 2.2 - Return Kth to Last
+- [ ] 2.3 - Delete Middle Node
+- [ ] 2.4 - Partition
